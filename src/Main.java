@@ -8,6 +8,7 @@ public class Main
         m.yes();
         System.out.println(m.a);
         System.out.println(b);
+        System.out.println("pavan");
     }
     public void yes(int... c)
     {
